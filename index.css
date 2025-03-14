@@ -1,0 +1,16 @@
+#navigation-bar{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    padding: 10px;
+
+}
+#nav-items{
+    display: flex;
+    justify-content: center;
+    margin:20px;
+    }
+    .nav{
+        padding: 8px;
+    
+    }
