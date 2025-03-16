@@ -9,8 +9,61 @@
     display: flex;
     justify-content: center;
     margin:20px;
+    color: black;
     }
-    .nav{
+ .nav{
         padding: 8px;
     
+
+
     }
+.quotebtn{
+    background: blue;
+    color: white;
+border: 10px;
+border-radius: 25px;
+width: 150px;
+height: 30px;
+    
+
+}
+#home{
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+
+}
+.background-image{
+    padding: 550px;
+    height: 10px;
+    width: 30px;
+    margin: 30px;
+    background-size: 100px;
+    filter: grayscale(100px);
+
+}
+#image{
+    height: 300px;
+    border-radius: 300px;
+}
+.div-hard{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+
+
+}
+
+.div-main{
+display: flex;
+ gap: 150px;
+
+}
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    
